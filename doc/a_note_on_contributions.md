@@ -9,12 +9,11 @@ Post your title, team members, project abstract and a contribution statement in 
 Below is an example. If no contribution statement is provided, we will insert a default statement that goes "**All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement**. "
 
 ---
-Sample project README statement.
 
-Project xxx
+Project Toxic Comment Classification Project --- Identify and classify toxic online comments
 
-Team members: Avi Bond, Comma Deed, En Funn, Gem Hon
+Team members: Xinyi Chen, Qiaozhen Ma, Mengran Xia ,Caihui Xiao, Weixuan Wu
 
-Summary: In this project, we developed a new method and improved the classification accuracy for images of cats and dogs to 99.9%
+Summary: In this project, we developed a new method and improved the Identify and classify toxic online comments to xxx%
 
-[Contribution Statement] AB, CD, EF and GH designed the study. AB and CD developed baseline classification model for evaluation. EF and GH explored feature engineering for improving the baseline model. AB, EF and GH discussed and designed the model evaluation protocol. CD carried out the computation for model evaluation. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
+[Contribution Statement] Xinyi Chen, Qiaozhen Ma, Mengran Xia ,Caihui Xiao, Weixuan Wu designed the study, for the model in python. Caihui Xiao and Xinyi Chen did EDA part. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
