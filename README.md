@@ -9,7 +9,7 @@ Term: Spring 2019
 	+ Mengran Xia
 	+ Caihui Xiao
 	+ Weixuan Wu - leader
-+ Project summary: In this project, we developed a new method and improved the Identify and classify toxic online comments to xxx%
++ Project summary: In this project, we used NLP techniques and deep learning to identify and classify toxic comments by Internet trolls.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
