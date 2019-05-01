@@ -8,8 +8,8 @@ Term: Spring 2019
 	+ Qiaozhen Ma
 	+ Mengran Xia
 	+ Caihui Xiao
-	+ Weixuan Wu - leader
-+ Project summary: In this project, we used NLP techniques and deep learning to identify and classify toxic comments by Internet trolls.
+	+ Weixuan Wu - leader: different word embedding methods
++ Project summary: The anonymity of the Internet gives birth to many toxic comments, and it is very important for platforms to detect and remove these comments to maintain a healthy online discussion environment. In this project, we tried to tackle this problem by using NLP techniques and deep learning to identify and classify the toxic comments by Internet trolls.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
